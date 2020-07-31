@@ -1,6 +1,19 @@
-# INSTALOCK-VALORANT
 
-To instalock your operator, you simply need to run blablabla.ahk, then press on the shortcut corresponding to your operator
+# What is it ?
+
+This is a AutoHotKey script that allow you to instalock your Valorant operator before everyone else.
+
+# How to run it ?
+
+### Instructions :
+ 1. Download [AutoHotKey](https://www.autohotkey.com/)
+ 2. Download this repository
+ 3. Run ``instalock-valorant.ahk`` 
+ 4. Queue up for a game
+ 5. Press one of the shortcut keys defined below when a match has been found
+ 
+# What are the shortcut keys ?
+
 
 Operator | Shortcut
  --- | ---
