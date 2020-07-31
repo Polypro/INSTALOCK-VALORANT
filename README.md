@@ -1,4 +1,5 @@
 
+
 # What is it ?
 
 This is a AutoHotKey script that allow you to instalock your Valorant operator before everyone else.
@@ -6,11 +7,10 @@ This is a AutoHotKey script that allow you to instalock your Valorant operator b
 # How to run it ?
 
 ### Instructions :
- 1. Download [AutoHotKey](https://www.autohotkey.com/)
- 2. Download this repository
- 3. Run ``instalock-valorant.ahk`` 
- 4. Queue up for a game
- 5. Press one of the shortcut keys defined below when a match has been found
+ 1. Download [AutoHotKey](https://www.autohotkey.com/) and this repository
+ 2. Run ``instalock-valorant.ahk`` 
+ 3. Queue up for a game
+ 4. Press one of the shortcut keys defined below when a match has been found
  
 # What are the shortcut keys ?
 
